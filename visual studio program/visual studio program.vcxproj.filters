@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="shiyan1main.cpp">
+    <ClCompile Include="..\shiyan1main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

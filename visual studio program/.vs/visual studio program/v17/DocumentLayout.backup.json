@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\visual studio program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F24EB4D-CB94-47E4-9098-A49917D6D0AC}|visual studio program.vcxproj|E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\visual studio program\\shiyan1main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F24EB4D-CB94-47E4-9098-A49917D6D0AC}|visual studio program.vcxproj|solutionrelative:shiyan1main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F24EB4D-CB94-47E4-9098-A49917D6D0AC}|visual studio program.vcxproj|E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\shiyan1main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +35,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "shiyan1main.cpp",
-              "DocumentMoniker": "E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\visual studio program\\shiyan1main.cpp",
-              "RelativeDocumentMoniker": "shiyan1main.cpp",
-              "ToolTip": "E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\visual studio program\\shiyan1main.cpp",
-              "RelativeToolTip": "shiyan1main.cpp",
+              "DocumentMoniker": "E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\shiyan1main.cpp",
+              "RelativeDocumentMoniker": "..\\shiyan1main.cpp",
+              "ToolTip": "E:\\Codes\\git\\hezuoshiyan1\\shiyan1\\shiyan1main.cpp",
+              "RelativeToolTip": "..\\shiyan1main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-11T06:56:13.643Z",
+              "WhenOpened": "2025-12-11T06:58:30.997Z",
               "EditorCaption": ""
             }
           ]
